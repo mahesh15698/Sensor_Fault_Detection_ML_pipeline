@@ -1,0 +1,2 @@
+DATABASE_NAME = "MaheshDB"
+COLLECTION_NAME = "car"
