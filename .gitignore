@@ -131,6 +131,9 @@ env.bak/
 venv.bak/
 sfdenv.bak/
 
+#artifact
+artifact/
+
 
 # Spyder project settings
 .spyderproject
