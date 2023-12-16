@@ -133,6 +133,7 @@ sfdenv.bak/
 
 #artifact
 artifact/
+saved_models/
 
 
 # Spyder project settings
