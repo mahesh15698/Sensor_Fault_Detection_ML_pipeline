@@ -1,4 +1,16 @@
 dill==0.3.5.1
+dnspython
+evidently
+httptools
+mypy-boto3-s3==1.24.76
+pip-chill
+python-dotenv
+types-s3transfer
+watchfiles
+websockets
+wincertstore
+neuro-mf
+fastapi
 pymongo[srv]==4.2.0
 pandas
 numpy
